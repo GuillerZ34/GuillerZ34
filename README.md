@@ -17,11 +17,23 @@ I'm a final-year Telecom Engineering student at Universidad del Cauca transition
 
 I work at the intersection of data engineering, machine learning, and LLM integration. My telecom background gives me hands-on experience with networked systems and real-world data — context that's rare in candidates coming purely from CS or math.
 
-📫 **guillerzuniga@unicauca.edu.co** &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/guillermo-alberto-zu%C3%B1iga-segura-8b4936375/)
+📫 **guillerzuniga@unicauca.edu.co** &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/guillermo-zuniga-segura)
 
 ---
 
 ## 🛠️ Featured Projects
+
+### 🔀 PRISM — PPO Routing with Intelligent SLM-driven Reward Modulation for SDN
+> Undergraduate thesis work combining Deep Reinforcement Learning with fine-tuned Small Language Models for adaptive network routing — *in progress*
+
+- Co-developing a hybrid architecture: a custom-built **PPO** reinforcement learning agent paired with a fine-tuned **Small Language Model (SLM)** inside an SDN Knowledge Plane
+- Evaluated 3 SLM variants (**SmolLM2-1.7B**, **Gemma2-2B**, **Qwen2.5-0.5B**) fine-tuned with **LoRA** and **DoRA**, benchmarking their ability to predict context-aware reward-shaping weights
+- Currently integrating the SLM's predicted weights into the PPO agent's reward function, targeting measurable gains in latency, throughput, and packet loss
+- Repository to be published once the PPO + SLM integration is complete and validated
+
+**Stack:** `Python` `PyTorch` `PPO / Reinforcement Learning` `LoRA / DoRA Fine-Tuning` `SDN` `LLMs`
+
+---
 
 ### 🌱 SMAI — Intelligent Agricultural Monitoring System
 > IoT + AI system for real-time crop monitoring and automated irrigation decisions
@@ -64,21 +76,30 @@ I work at the intersection of data engineering, machine learning, and LLM integr
   <code><img height="45" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase"></code>
 </p>
 
-**Also working with:** Streamlit · Plotly · D3.js · SQLite · OpenRouter API · ntfy.sh · Git
+**Also working with:** Streamlit · Plotly · D3.js · SQLite · OpenRouter API · ntfy.sh · GitHub
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Issuer | Year |
+**In Progress**
+
+| Certification | Issuer | Progress |
 |---|---|---|
-| IBM Data Science Professional Certificate (track) | IBM | 2026 |
-| Python for Everybody Specialization | University of Michigan | 2026 |
-| What is Data Science? | IBM | 2026 |
-| Capstone: Retrieving, Processing & Visualizing Data with Python | University of Michigan | 2026 |
+| IBM Data Science Professional Certificate | IBM | 6/12 courses — since Jun. 2026 |
+| Mathematics for Machine Learning Specialization | Imperial College London | 1/3 courses — since Sep. 2026 |
+| GCI World 2026 | University of Tokyo (Matsuo-Iwasawa Lab) | Ongoing — since Sep. 2026 |
+
+**Completed**
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Pandas, Data Cleaning | Kaggle | Aug. 2026 |
+| Data Visualization, Intro to SQL | Kaggle | Sep. 2026 |
+| Python for Everybody Specialization (5 courses) | University of Michigan | Feb. 2026 |
 | EF SET English Certificate — C1 Advanced (62/100) | EF SET | — |
 
-[→ View all 10 certifications on LinkedIn](https://www.linkedin.com/in/guillermo-alberto-zu%C3%B1iga-segura-8b4936375/)
+[→ View all certifications on LinkedIn](https://www.linkedin.com/in/guillermo-zuniga-segura)
 
 ---
 
@@ -95,6 +116,6 @@ I work at the intersection of data engineering, machine learning, and LLM integr
 I'm actively looking for **entry-level roles in data science, machine learning, or AI engineering** where I can contribute from day one.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guillermo-alberto-zu%C3%B1iga-segura-8b4936375/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="28" width="36" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/guillermo-zuniga-segura" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="28" width="36" alt="LinkedIn"></a>
   <a href="mailto:guillerzuniga@unicauca.edu.co"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="28" width="36" alt="Email"></a>
 </p>
